@@ -20,7 +20,7 @@ El objetivo es añadir los nombres de los participantes y sortear automáticamen
 
 ---
 
-▶️ Uso
+#▶️ Uso
 Clona o descarga este repositorio.
 
 Abre el archivo index.html en tu navegador.
@@ -31,7 +31,7 @@ Repite hasta completar la lista de amigos.
 
 Haz clic en Sortear amigo para obtener un resultado.
 
-💡 Mejoras posibles
+#💡 Mejoras posibles
 Evitar duplicados en la lista.
 
 Restringir que un participante se asigne a sí mismo.
@@ -40,6 +40,3 @@ Guardar datos en localStorage para no perder la información.
 
 Compartir resultados de manera externa.
 
-📜 Licencia
-Este proyecto se distribuye bajo la licencia MIT.
-Puedes usarlo, modificarlo y compartirlo libremente.
